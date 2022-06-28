@@ -17,9 +17,9 @@
   ## Usage
     As a developer, I want a README generator So that I can quickly create a professional README for a new project
   
-  Video Tutorial: https://drive.google.com/file/d/1tQQrMOLu2ntpcXmG9Me3ySHpSSospoAA/view?usp=sharing
+  Application is invoked using `node index.js`
   
-  ![README_Generator](./utils/images/README.png)
+  Video Tutorial: https://drive.google.com/file/d/1tQQrMOLu2ntpcXmG9Me3ySHpSSospoAA/view?usp=sharing
   
   ## License
   MIT License: https://choosealicense.com/licenses/mit/
