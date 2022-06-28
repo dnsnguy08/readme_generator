@@ -29,7 +29,7 @@ function generateMarkdown(data, accountInfo) {
   - [Contributing](#contributing)
   - [Test](#test)
   - [Repository Link](#repository)
-  - [Questions](#questions) 
+  - [Questions](#questions)
   ## Installation
           ${data.installation}
   ## Usage
