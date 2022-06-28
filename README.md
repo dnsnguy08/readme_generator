@@ -19,6 +19,8 @@
   
   Video Tutorial: https://drive.google.com/file/d/1tQQrMOLu2ntpcXmG9Me3ySHpSSospoAA/view?usp=sharing
   
+  ![README_Generator](./utils/images/README.png)
+  
   ## License
   MIT License: https://choosealicense.com/licenses/mit/
   ## Contributing
