@@ -12,7 +12,8 @@
   - [Repository Link](#repository)
   - [Questions](#questions) 
   ## Installation
-          Clone the repo
+        - Clone the repo
+        - npm i inquirer@6.5.0
   ## Usage
     As a developer, I want a README generator So that I can quickly create a professional README for a new project
   
