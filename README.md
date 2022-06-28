@@ -33,4 +33,3 @@
   For any questions, please reach out to:
   - Dennis Nguyen
   - [GitHub Profile](https://github.com/dnsnguy08)
-  - <null>  
