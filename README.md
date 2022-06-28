@@ -17,6 +17,8 @@
   ## Usage
     As a developer, I want a README generator So that I can quickly create a professional README for a new project
   
+  Application is invoked using `node index.js`
+  
   Video Tutorial: https://drive.google.com/file/d/1tQQrMOLu2ntpcXmG9Me3ySHpSSospoAA/view?usp=sharing
   
   ## License
